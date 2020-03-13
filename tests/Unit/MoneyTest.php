@@ -17,7 +17,7 @@ use KodeKeep\Money\Money;
 use KodeKeep\Money\Tests\TestCase;
 
 /**
- * @coversNothing
+ * @covers \KodeKeep\Money\Money
  */
 class MoneyTest extends TestCase
 {
